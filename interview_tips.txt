@@ -1,0 +1,11 @@
+http://blog.sina.com.cn/s/blog_87f330d30101go6l.html　Wei Xiaoliang
+开始写程序之前自己构造几组测试输入输出，向面试官确认对问题的理解是相同的．
+http://blog.sina.com.cn/s/blog_87f330d30101johz.html　Wei Xiaoliang
+讨价还价：
+1、你很喜欢这个公司，希望加入；
+2、其他公司的待遇更好，你希望的到一个公平市场的待遇，让你可以很高兴的工作。
+
+
+注意设计题
+
+leetcode少图论题
